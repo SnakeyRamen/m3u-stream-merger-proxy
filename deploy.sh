@@ -9,3 +9,5 @@ sleep 10
 kill %1
 
 echo "Build and deployment process completed."
+
+exit 0
